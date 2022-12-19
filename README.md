@@ -1,6 +1,6 @@
-# tahfizh_qu_app
+# TahifzhQu: Aplikasi Menghafal Quran
 
-## C04 
+## MPPL C04 
 Nazhifah Elqolby 5025201156
 Agnesfia Anggraeni 5025201059
 Khariza Azmi 5025201044
