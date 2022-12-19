@@ -1,4 +1,4 @@
-# TahifzhQu: Aplikasi Menghafal Quran
+# TahfizhQu: Aplikasi Menghafal Quran
 
 ## MPPL C04 
 Name | Student ID 
