@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210941021477",
+    "project_id": "tahfizhqu-58882",
+    "storage_bucket": "tahfizhqu-58882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210941021477:android:3d4ace6080719bf0c15ecc",
+        "android_client_info": {
+          "package_name": "com.hapalan_quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210941021477-eq4njoaqm5ecdkkncr19l5ohtomrli3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hapalan_quran",
+            "certificate_hash": "7b0d6cc84c120553764063caa7fcae3822a19a60"
+          }
+        },
+        {
+          "client_id": "210941021477-9lij6tp1afh76ekimchsmsl7iefcq5n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6aswm4wtohjH_OgOUP62CX5w6PXSI8XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210941021477-9lij6tp1afh76ekimchsmsl7iefcq5n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
